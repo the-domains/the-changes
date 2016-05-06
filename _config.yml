@@ -23,6 +23,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0.9331348766572773
   lightness: 0.35346500063315034
-  saturation: 0.042980768252164125
-  rhythmicContrast: 0.8238099797163159
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
